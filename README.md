@@ -2,7 +2,8 @@
 
 [Big Data Campus] Predicting flight delay
 
-This project is "Predicting flight delay" of Bigcontest which is perfomed with\ 
+This project is "Predicting flight delay" of Bigcontest which is perfomed with
+
 **_Sehoon.Park and Wooheon.Hong, Jeongyeon.Lee, Hyunseo.Park,hyunJoon.Park_**
 
 The data has to be protected by policy of "Bigcontest Competition of korea"
