@@ -1,4 +1,4 @@
-# BIGCON
+# SKY Scanner
 
 [Big Data Campus] Predicting flight delay
 
